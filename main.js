@@ -7,4 +7,3 @@ const mywallet = mykey.getPublic('hex');
 
 let jyCoin = new blockChain();
 
-xw
